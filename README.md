@@ -14,7 +14,7 @@ The App may display movie posters and overviews that can contain violent or matu
 We do not share or disclose any personal information to third parties.
 
 ## Security of Data
-The security of your data is important to us, and we strive to use commercially acceptable means to protect it. However, please remember that no method of transmission over the Internet or method of electronic storage is 100% secure, and we cannot guarantee its absolute security.
+Neither do we collect any data nor do we store any data from our users.
 
 ## Children’s Privacy
 Our App is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. The App may include content that some parents may find unsuitable for children, including movie posters and overviews that may depict violence or other mature themes. If you are a parent or guardian and you are aware that your child has accessed this App, please supervise their usage and ensure it aligns with your family’s content standards.
